@@ -8,5 +8,6 @@ int main()
     // Nghĩa printing
     printf("Hello Nghia!\n");
     printf("Nghia is here!\n");
+    printf("skibidi");
     return 0;
 }
